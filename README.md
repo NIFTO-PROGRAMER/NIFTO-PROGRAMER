@@ -1,7 +1,4 @@
 ## Hi there 👋
-<div align="center">
-  <img src="metrics.svg" alt="Metrics" width="100%">
-</div>
 
 <!--
 **NIFTO-PROGRAMER/NIFTO-PROGRAMER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
